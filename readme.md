@@ -1,5 +1,5 @@
 # Web browsing
-* Description: demonstrate the capability of browsing the information from internet
+* Demo: model calling 'search' and 'open' function to interact with the web for up-to-date info beyond their knowledge cutoff
 * Model: gpt_oss
 * LLM model self-hosted by [customized llama.cpp](https://github.com/avble/av_llm)
 * integration with [xai.ai](https://exa.ai/)
